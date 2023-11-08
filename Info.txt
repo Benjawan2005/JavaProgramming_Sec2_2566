@@ -1,0 +1,5 @@
+Student_id : 2313110310
+Student Name : Benjawan
+Major : IT
+Level   : 1
+Faculty : Information Teachnology
